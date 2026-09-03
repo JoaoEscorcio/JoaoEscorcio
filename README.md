@@ -4,6 +4,7 @@
 
 4+ years across BI, analytics, data engineering and, more recently, AI-powered
 applications. Background: BI/Analytics → Data Engineering → AI & Data Engineering.
+Background in Economics, with a quantitative and statistical foundation.
 
 <br>
 
