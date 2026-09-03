@@ -13,6 +13,9 @@ Python · SQL · PostgreSQL / Supabase · SQL Server · Power BI · SAS ·
 ETL & data workflows · data modelling · REST APIs · webhooks · Docker ·
 Git · LLM integrations · RAG
 
+**AI-assisted engineering**
+Claude Code · OpenAI Codex · prompt-driven development
+
 **Learning**
 Databricks · PySpark · Microsoft Fabric
 
@@ -22,6 +25,11 @@ Databricks · PySpark · Microsoft Fabric
 digital service. WhatsApp Business Platform, Python backend, PostgreSQL/
 Supabase, LLM + RAG, CV processing, job-candidate matching. Production
 project; code private.
+
+**FYLD — Conversational AI PoC** — internal proof of concept for FYLD's
+Data Competency Centre. Python backend, LLM APIs, RAG, WhatsApp and
+Telegram integrations, containerized deployment, built for HR information
+access. Internal project; code private.
 
 **Accura — Price Tracking** — automated pricing pipeline: ingests and
 persists pricing history, compares current vs. historical prices, applies
