@@ -1,53 +1,58 @@
 # João Escórcio
 
-AI & Data Engineer — Porto, Portugal
+**AI & Data Engineer** · Porto, Portugal
 
-4+ years across BI, analytics, data engineering and, more recently,
-AI-powered applications. Background: BI/Analytics → Data Engineering →
-AI & Data Engineering.
+4+ years across BI, analytics, data engineering and, more recently, AI-powered
+applications. Background: BI/Analytics → Data Engineering → AI & Data Engineering.
+
+<br>
 
 ## Stack
 
-**Professional**
-Python · SQL · PostgreSQL / Supabase · SQL Server · Power BI · SAS ·
-ETL & data workflows · data modelling · REST APIs · webhooks · Docker ·
-Git · LLM integrations · RAG
+|  |  |
+|---|---|
+| **Languages & Data** | Python · SQL · PostgreSQL / Supabase · SQL Server |
+| **BI & Analytics** | Power BI · SAS · ETL/ELT · data modelling |
+| **Engineering** | REST APIs · webhooks · Docker · Git |
+| **AI / LLM** | LLM integrations · RAG · agent & skill design · MCP |
+| **AI-assisted engineering** | Claude Code · OpenAI Codex · prompt-driven development |
+| **Learning** | Databricks · PySpark · Microsoft Fabric |
 
-**AI-assisted engineering**
-Claude Code · OpenAI Codex · prompt-driven development
-
-**Learning**
-Databricks · PySpark · Microsoft Fabric
+<br>
 
 ## Featured projects
 
-**Cuca Atende+ / Emprega+** — AI and data engineering for a public-sector
-digital service. WhatsApp Business Platform, Python backend, PostgreSQL/
-Supabase, LLM + RAG, CV processing, job-candidate matching. Production
-project; code private.
+### Cuca Atende+ / Emprega+
+AI-powered public-sector digital service — WhatsApp automation, CV processing,
+job-candidate matching, internal operations portal.
+`Python` `PostgreSQL/Supabase` `LLM` `RAG`
+*Production project · code private*
 
-**FYLD — Conversational AI PoC** — internal proof of concept for FYLD's
-Data Competency Centre. Python backend, LLM APIs, RAG, WhatsApp and
-Telegram integrations, containerized deployment, built for HR information
-access. Internal project; code private.
+### FYLD — Conversational AI PoC
+Internal proof of concept for FYLD's Data Competency Centre — HR information
+access via WhatsApp and Telegram, agent/tool-based workflows.
+`Python` `LLM APIs` `RAG` `Docker`
+*Internal project · code private*
 
-**Accura — Price Tracking** — automated pricing pipeline: ingests and
-persists pricing history, compares current vs. historical prices, applies
-business rules, generates alerts to support purchasing decisions. Python,
-SQL, PostgreSQL/Supabase. Commercial project; code private.
+### Accura — Price Tracking
+Automated pricing pipeline — historical price tracking, business-rule alerts
+for purchasing decisions.
+`Python` `SQL` `PostgreSQL/Supabase`
+*Commercial project · code private*
 
-**[Streamlit_case](https://github.com/JoaoEscorcio/Streamlit_case)** —
-Miami real estate dashboard. Streamlit frontend, FastAPI backend,
-PostgreSQL/Supabase, Plotly.
+### Streamlit_case
+Miami real estate dashboard.
+`Streamlit` `FastAPI` `Supabase` `Plotly`
+[Repo →](https://github.com/JoaoEscorcio/Streamlit_case)
 
-**Self-study — Azure & Spark**
-[Pipeline-Azure-Databricks_ADF_PB](https://github.com/JoaoEscorcio/Pipeline-Azure-Databricks_ADF_PB) —
-end-to-end Azure pipeline: Data Lake Gen2, Databricks/Delta, ADF
-orchestration, Power BI.
-[Spark_Databricks](https://github.com/JoaoEscorcio/Spark_Databricks) —
-large-scale analysis with PySpark on Databricks.
+### Self-study — Azure & Spark
+Two independent study cases: an end-to-end Azure pipeline, and a large-scale
+PySpark analysis on Databricks.
+[Pipeline-Azure-Databricks_ADF_PB →](https://github.com/JoaoEscorcio/Pipeline-Azure-Databricks_ADF_PB) ·
+[Spark_Databricks →](https://github.com/JoaoEscorcio/Spark_Databricks)
+
+<br>
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/joaovictorescorcio) ·
-[Medium](https://medium.com/@jv.escorcio)
+[LinkedIn](https://www.linkedin.com/in/joaovictorescorcio) · [Medium](https://medium.com/@jv.escorcio)
